@@ -198,4 +198,4 @@ dependencies:
   - pip:
       - pyqt5-sip==4.19.18
       - pyqtwebengine==5.12.1
-      - azure-storage-blob=12.3.0
+      - azure-storage-blob==12.3.0
