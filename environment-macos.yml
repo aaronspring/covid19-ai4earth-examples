@@ -195,7 +195,7 @@ dependencies:
   - zlib=1.2.11
   - zstd=1.4.4
   - azure-storage-blob=2.1.0
-  - h5netcdf=2.10.0
+  - h5netcdf=0.8.0
   - pip:
       - pyqt5-sip==4.19.18
       - pyqtwebengine==5.12.1
