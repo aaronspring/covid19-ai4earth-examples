@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/informatics-lab/covid19-ai4earth-examples/master?urlpath=%2Flab%2Ftree%2Fintro.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/informatics-lab/covid19-ai4earth-examples/master)
 
 # The Met Office Informatics Lab COVID-19 Response dataset examples
 
